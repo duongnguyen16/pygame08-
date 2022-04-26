@@ -9,5 +9,5 @@ Sử dụng pygame, sys và random
 ## Bài làm:
 
 Speedrun bài tập bổ sung (42 phút 48 giây realtime): [Youtube](https://youtu.be/SsqNVfVVAng)
-- Preview:
+
 ![Đề](https://i.ibb.co/0rbBp3P/image.png)
